@@ -1,6 +1,5 @@
 <p align="center">
   <b>About me
-    </p>
   
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue" alt=""/>
@@ -10,6 +9,7 @@
 </h1>
 </div>
 </div>
+</p>
 
 ### Basic information:
 - 🔭 I'm working on: PMMP3
