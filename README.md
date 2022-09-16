@@ -9,7 +9,7 @@
 </div>
 
 ## About me:
-- __I'm Sonic (my nickname), I develop plugins for Minecraft Bedrock Edition, also can develop plugins for Pocket Edition (1.1.5).__
+- __I am currently developing plugins for (PMMP3), I am learing and reviewing other plugins, for a deeper understanding__
 ### Basic information:
 - __🔭 I'm working on: PMMP3__
 - __📚 I'm learning: English Language, PHP__
