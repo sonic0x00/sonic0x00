@@ -10,9 +10,9 @@
 </div>
 
 ### Basic information:
-🔭 I'm working on: PMMP3
+- 🔭 I'm working on: PMMP3.
 - 📚 I'm learning: English Language, PHP.
-- I'm Languages I've abandoned: Python.
+- I'm Languages I've abandoned: Python, JS.
 ## Contact me:
 - VK: https://vk.com/sonic0x00
 - Discord: idk
