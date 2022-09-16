@@ -3,7 +3,7 @@
   
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue" alt=""/>
-  ![My Stats](https://github-readme-stats.vercel.app/api?username=sonic0x00&show_icons=true&count_private=true&hide_title=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonic0x00&layout=compact", alt=""/>
   <h1>
   Hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
