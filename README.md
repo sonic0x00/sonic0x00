@@ -3,7 +3,9 @@
   
 <div id="badges">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonic0x00&layout=compact", alt=""/>
-  <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue" alt=""/>
+  <h1>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue", alt=""/>
   <h1>
   Hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
