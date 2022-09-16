@@ -11,8 +11,8 @@
 
 ### Basic information:
 🔭 I'm working on: PMMP3
-📚 I'm learning: English Language, PHP.
-I'm Languages I've abandoned: Python.
+- 📚 I'm learning: English Language, PHP.
+- I'm Languages I've abandoned: Python.
 ## Contact me:
 - VK: https://vk.com/sonic0x00
 - Discord: idk
