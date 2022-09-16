@@ -8,11 +8,12 @@
 </div>
 </div>
 
-
+## About me:
+- I'm Sonic (my nickname), I develop plugins for Minecraft Bedrock Edition, also can develop plugins for Pocket Edition (1.1.5).
 ### Basic information:
 - 🔭 I'm working on: PMMP3
 - 📚 I'm learning: English Language, PHP
 - Experience with servers: 1 year
-## Contact me:
+### Contact me:
 - VK: https://vk.com/sonic0x00
 - Telegram: @sonictest
