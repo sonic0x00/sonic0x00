@@ -1,6 +1,6 @@
-<p align="center"> <b>About me</b> 
-</p> 
-![](https://komarev.com/ghpvc/?username=sonic0x00)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### Hi there 👋
 - I'm working on: PMMP3
