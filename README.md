@@ -1,4 +1,7 @@
-<div id="header" align="center">
+<p align="center">
+  <b>About me
+    </p>
+  
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -9,12 +12,11 @@
 </div>
 
 ### Basic information:
-- 🔭 I'm working on: PMMP3.
-- 📚 I'm learning: English Language, PHP.
-- I'm Languages I've abandoned: Python, JS.
+- 🔭 I'm working on: PMMP3
+- 📚 I'm learning: English Language, PHP
+- Experience with servers: 1 year
 ## Contact me:
 - VK: https://vk.com/sonic0x00
-- Discord: idk
-- Telegram: idk
-## Donate me:
-- QIWI: idk
+- Telegram: @sonictest
+## Donation:
+- BTC: nope
