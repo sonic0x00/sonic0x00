@@ -13,7 +13,7 @@
 ### Basic information:
 - __🔭 I'm working on: PMMP3__
 - __📚 I'm learning: English Language, PHP__
-- __Experience with servers: 1 year__
-### Contact me:
+- __🐧 Experience with servers: 2 years__
+### My contacts:
 - __VK: https://vk.com/sonic0x00__
 - __Telegram: @sonictest__
