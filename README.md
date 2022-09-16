@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="I'm developer Minecraft Bedrock Edition." width="100"/>
+  <img src="" width="100"/>
+  <h1>
+    I'm developer Minecraft Bedrock Edition
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue" alt=""/>
   <h1>
