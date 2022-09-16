@@ -17,3 +17,6 @@
 ### My contacts:
 - __VK: https://vk.com/sonic0x00__
 - __Telegram: @sonictest__
+### My stats:
+![My Stats](https://github-readme-stats.vercel.app/api?username=Lunarelly&show_icons=true&count_private=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarelly&layout=compact)
