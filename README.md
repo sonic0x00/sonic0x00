@@ -1,4 +1,6 @@
-<p align="center"> <b>About me</b> </p> ![](https://komarev.com/ghpvc/?username=sonic0x00)
+<p align="center"> <b>About me</b> 
+</p> 
+![](https://komarev.com/ghpvc/?username=sonic0x00)
 
 ### Hi there 👋
 - I'm working on: PMMP3
