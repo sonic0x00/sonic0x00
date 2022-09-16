@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="" width="100"/>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=sonic0x00&style=flat-square&color=blue" alt=""/>
   <h1>
