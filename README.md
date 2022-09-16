@@ -11,9 +11,9 @@
 ## About me:
 - __I'm Sonic (my nickname), I develop plugins for Minecraft Bedrock Edition, also can develop plugins for Pocket Edition (1.1.5).__
 ### Basic information:
-- 🔭 I'm working on: PMMP3
-- 📚 I'm learning: English Language, PHP
-- Experience with servers: 1 year
+- __🔭 I'm working on: PMMP3__
+- __📚 I'm learning: English Language, PHP__
+- __Experience with servers: 1 year__
 ### Contact me:
-- VK: https://vk.com/sonic0x00
-- Telegram: @sonictest
+- __VK: https://vk.com/sonic0x00__
+- __Telegram: @sonictest__
