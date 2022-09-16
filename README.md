@@ -9,11 +9,11 @@
 </div>
 
 ## About me:
-**- I'm Sonic (my nickname), I develop plugins for Minecraft Bedrock Edition, also can develop plugins for Pocket Edition (1.1.5).
+- __I'm Sonic (my nickname), I develop plugins for Minecraft Bedrock Edition, also can develop plugins for Pocket Edition (1.1.5).__
 ### Basic information:
-**- 🔭 I'm working on: PMMP3
-**- 📚 I'm learning: English Language, PHP
-**- Experience with servers: 1 year
+- 🔭 I'm working on: PMMP3
+- 📚 I'm learning: English Language, PHP
+- Experience with servers: 1 year
 ### Contact me:
-**- VK: https://vk.com/sonic0x00
-**- Telegram: @sonictest
+- VK: https://vk.com/sonic0x00
+- Telegram: @sonictest
